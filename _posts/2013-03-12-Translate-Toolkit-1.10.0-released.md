@@ -4,7 +4,7 @@ category: releases
 ---
 This release contains many improvements and bug fixes. While it contains many
 general improvements, it also specifically contains needed changes for the
-upcoming [Pootle](http://pootle.translatehouse.org/) 2.5.0.
+upcoming [Pootle](//pootle.translatehouse.org/) 2.5.0.
 
 It is just over a year since the last release so there are many improvements
 across the board.  A number of people contributed to this release and we've

@@ -5,8 +5,8 @@ category: releases
 
 This release contains many improvements and bug fixes. While it contains many
 general improvements, it also specifically contains needed changes and
-optimizations for the upcoming [Pootle](http://pootle.translatehouse.org/)
-2.5.1 and [Virtaal](http://virtaal.translatehouse.org) releases.
+optimizations for the upcoming [Pootle](//pootle.translatehouse.org/)
+2.5.1 and [Virtaal](//virtaal.translatehouse.org) releases.
 
 It is just over a eight months since the last release and there are many
 improvements across the board.  A number of people contributed to this release

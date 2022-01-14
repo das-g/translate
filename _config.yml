@@ -6,7 +6,7 @@ description: A collection of useful tools for localization, and a powerful API f
 latest_version: 3.5.2
 author: Translate House
 
-about_url: http://translatehouse.org/about.html
-docs_url: http://docs.translatehouse.org/projects/translate-toolkit/
+about_url: //translatehouse.org/about.html
+docs_url: //docs.translatehouse.org/projects/translate-toolkit/
 gh_url: https://github.com/translate/translate
 contact_url: mailto:dev@translate.org.za
